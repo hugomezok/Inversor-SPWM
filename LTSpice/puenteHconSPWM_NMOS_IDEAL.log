@@ -1,0 +1,24 @@
+Circuit: * D:\Huguito-HDD-02\UTN\B5 - 5° Nivel\EP - Electrónica de Potencia\2024\Proyecto\SegundoCuatri\Entrega\LTSpice_2\puenteHconSPWM_NMOS_IDEAL.asc
+
+WARNING: Node N001 is floating.
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Nov 24 20:23:46 2024
+Total elapsed time: 0.477 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 276633
+traniter = 276621
+tranpoints = 50450
+accept = 40810
+rejected = 9640
+matrix size = 18
+fillins = 5
+solver = Normal
+Avg thread counts: 1.0/1.1/1.1/1.0
+Matrix Compiler1: 930 bytes object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 1.46 KB object code size  0.2/0.2/[0.2]
+
